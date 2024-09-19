@@ -18,5 +18,5 @@ print('Done!\n')
 weight = 21.45
 
 for Year in range (1, 16):
-    weight = weight + 2.205
-    print('Year %s = %s' % (Year, weight))
+    weight = weight + 2.205 
+    print('Year %s = %s' % (Year, weight)) 
